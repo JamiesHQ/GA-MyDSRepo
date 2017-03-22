@@ -1,0 +1,11 @@
+Item,DIM,SIM,mechanical,metal,Solution
+door,no,yes,no,yes,WD40
+chair,yes,no,no,yes,Duct tape
+table,yes,no,no,yes,Duct tape
+wheel,no,yes,yes,yes,WD40
+cup,no,no,no,no,Duct tape
+fan,no,yes,yes,yes,WD40
+shoe,yes,no,no,no,Duct tape
+lever,no,yes,yes,yes,WD40
+cog,no,yes,yes,yes,WD40
+lopsided_painting,no,no,no,no,Duct tape
